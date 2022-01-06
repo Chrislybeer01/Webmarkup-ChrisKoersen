@@ -1,0 +1,6 @@
+Student name: Chris Koersen 
+Student number: 688457
+Student class: INF1C
+URL student GitHub repository: github.com/chrislybeer01
+
+https://github.com/Chrislybeer01/Webmarkup-ChrisKoersen.git
